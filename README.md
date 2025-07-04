@@ -98,51 +98,6 @@ Emerging Technologies:
 
 <div align="center">
 
-## 🛠️ Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔄 Real-time Chat Application
-[![](https://img.shields.io/badge/🚀-Live%20Demo-brightgreen)](#) [![](https://img.shields.io/badge/💻-Source%20Code-blue)](#)
-
-**🛠️ Tech Stack:**
-- Frontend: React.js, Tailwind CSS
-- Backend: Spring Boot, WebSocket
-- Database: MongoDB
-
-**✨ Key Features:**
-- ⚡ Real-time messaging 
-- 🔌 WebSocket integration
-- 📱 Responsive design
-- 🚀 RESTful APIs
-
-</td>
-<td width="50%">
-
-### 💼 Job Portal Platform  
-[![](https://img.shields.io/badge/🚀-Live%20Demo-brightgreen)](#) [![](https://img.shields.io/badge/💻-Source%20Code-blue)](#)
-
-**🛠️ Tech Stack:**
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-
-**✨ Key Features:**
-- 👥 Role-based access control
-- ⚡ Real-time applications
-- 🔍 Advanced search & filters
-- 📧 Notification system
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 ## 💼 Professional Experience
 
 </div>
@@ -181,22 +136,12 @@ Emerging Technologies:
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshithakkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshithakkar&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
 ## 🤝 Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/himanshithakkar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/himanshithakkar"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:himanshi@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/himanshithakkar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:hthakkar374@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ### 📍 Status
