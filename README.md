@@ -217,7 +217,6 @@ Current Focus: Full-Stack Development & Data Science
 
 *"To work in a challenging and dynamic environment and to keep adding value to the organization that I represent and serve to myself, while concurrently upgrading my skills and knowledge."*
 
-<img src="https://github.com/himanshithakkar/himanshithakkar/blob/output/github-contribution-grid-snake.svg" />
 
 ⭐️ From [Himanshi Thakkar](https://github.com/himanshithakkar)
 
