@@ -74,30 +74,6 @@ To work in a challenging and dynamic environment and to keep adding value to the
 
 <div align="center">
 
-### 🎯 Technical Expertise
-
-```yaml
-Backend Development:
-  - Spring Boot & Security
-  - RESTful APIs Design
-  - Database Management (SQL/NoSQL)
-  
-Frontend Development:
-  - React.js & Modern JavaScript
-  - Responsive UI/UX Design
-  - Component-Based Architecture
-  
-Emerging Technologies:
-  - Machine Learning & Data Science
-  - Docker Containerization
-  - WebSocket Real-time Communication
-  - Gen-AI Integration
-```
-
-</div>
-
-<div align="center">
-
 ## 💼 Professional Experience
 
 </div>
